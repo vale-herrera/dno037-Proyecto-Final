@@ -6,7 +6,7 @@
 
 ## Antecedentes
 
-![paloma, una ilustradora mexicana](/images/peach.png)
+![Paloma, una ilustradora mexicana](/images/peach.png)
 
 https://palomathepeach.com/
 ----
@@ -14,6 +14,8 @@ https://palomathepeach.com/
 
 https://osakamania.jp/
 ----
+![Abhishek Saha, Graphic, UI/UX, Web Designer and also a Front-End Developer.](/images/pixabuddy.png)
 
+https://www.pixabuddy.com/
 
 ## Referentes 

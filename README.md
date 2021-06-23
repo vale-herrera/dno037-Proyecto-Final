@@ -1,6 +1,8 @@
 # dno037-Proyecto Final
+Portafolio de diseño. 
 
 ## ¿Para qué?
+Exponer mi trabajo como estudiante de diseño de una manera atractiva y efectiva, de manera que me ayuda al momento de buscar prácticas y oportunidades laborales en el futuro.
 
 ## ¿Para quiénes?
 

@@ -15,7 +15,7 @@ https://palomathepeach.com/
 Este es el sitio de Paloma, una ilustradora mexicana. Rescato la paleta de colores que se usa en toda la página, la que la hace coherente y atractiva. También rescato las ilustraciones, aunque me gustaría que existiera más "movimiento" al momento de interactuar con los distintos botones.
 
 
-![excursion site produced by Osaka Metro](/images/osakamania.png)
+![excursion site produced by Osaka Metro](/images/osakamani a.png)
 https://osakamania.jp/
 ----
 Creado por el Metro de Osaka, este sitio de excursión nos muestra diferentes categorías con una paleta de colores brillante y bellas ilustraciones. Rescato principalmente el menú de selección, donde se expone todo lo que ofrece el sitio de una manera fácil de encontrar.
@@ -42,6 +42,7 @@ Esta es una agencia de diseño que crea páginas web. Principalmente rescato la 
 ![Portfolio site of Kazuki Noda, visual designer and art director.](/images/kazuki.png)
 https://kazukinoda.com/
 ----
+Portafolio de la diseñadora y directora de arte Kazuki Noda. Rescato la división de categorías que se da en "cajas", y el ambiente relajante que se logra a partir de la música y los colores. Aprecio también la interacción que ocurre con el sitio cuando se pasa el cursor por distintas partes, aunque puede ser un poco molesto después de un tiempo.
 
 
 ## Referentes 

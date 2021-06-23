@@ -6,9 +6,10 @@
 
 ## Antecedentes
 
-![paloma](/images/peach.png)
+![paloma, una ilustradora mexicana](/images/peach.png)
 https://palomathepeach.com/
 ---- 
+![This is an excursion site produced by Osaka Metro] (images/osakamania.png)
 https://osakamania.jp/
 
 ## Referentes 

@@ -21,6 +21,7 @@ https://osakamania.jp/
 ![Abhishek Saha, Graphic, UI/UX, Web Designer and also a Front-End Developer.](/images/pixabuddy.png) 
 https://www.pixabuddy.com/
 ---- 
+Sitio de Abhishek Saha, diseñador de web entre otras cosas. Rescato la manera en que está ordenada la página, el *scrolling* nos guía por diferentes categorías, las que se muestran de una manera simple pero efectiva. Me gustaría que los colores del sitio fueran mas cohesivos con los trabajos del diseñador.
 
 ![Creative agency, focused on digital projects and event planning.](/images/00f.png)
 https://00f.agency/en/

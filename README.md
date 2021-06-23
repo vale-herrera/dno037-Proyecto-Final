@@ -36,7 +36,7 @@ Esta agencia creativa digital hace uso de un solo color para definir su identida
 ![SVZ is powered by dynamic and passionate designers, developers, and digital strategists focused on creating high-end marketing websites.](/images/svz.png)
 https://www.svz.io/
 ----
-
+Esta es una agencia de diseño que crea páginas web. Principalmente rescato la tabla que aparece en la imagen, ya que muestra de una manera estructurada y fácil de entender el proceso de diseño de la agencia, lo que es muy importante al momento de atraer nuevos clientes.
 
 
 ![Portfolio site of Kazuki Noda, visual designer and art director.](/images/kazuki.png)

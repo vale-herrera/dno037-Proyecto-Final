@@ -6,7 +6,7 @@
 
 ## Antecedentes
 ----
-(/images/peach.png)
+![paloma](/images/peach.png)
 https://palomathepeach.com/
 ---- 
 

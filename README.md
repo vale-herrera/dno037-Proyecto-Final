@@ -28,5 +28,9 @@ https://00f.agency/en/
 https://www.svz.io/
 ----
 
+![Portfolio site of Kazuki Noda, visual designer and art director.](/images/kazuki.png)
+https://kazukinoda.com/
+----
+
 
 ## Referentes 

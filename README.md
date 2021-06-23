@@ -15,7 +15,7 @@ https://palomathepeach.com/
 Este es el sitio de Paloma, una ilustradora mexicana. Rescato la paleta de colores que se usa en toda la página, la que la hace coherente y atractiva. También rescato las ilustraciones, aunque me gustaría que existiera más "movimiento" al momento de interactuar con los distintos botones.
 
 
-![excursion site produced by Osaka Metro](/images/osakamani a.png)
+![excursion site produced by Osaka Metro](/images/osakamania.png)
 https://osakamania.jp/
 ----
 Creado por el Metro de Osaka, este sitio de excursión nos muestra diferentes categorías con una paleta de colores brillante y bellas ilustraciones. Rescato principalmente el menú de selección, donde se expone todo lo que ofrece el sitio de una manera fácil de encontrar.

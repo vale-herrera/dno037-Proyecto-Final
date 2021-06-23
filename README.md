@@ -10,7 +10,7 @@
 
 https://palomathepeach.com/
 ----
-![excursion site produced by Osaka Metro] (/images/osakamania.png)
+![excursion site produced by Osaka Metro](/images/osakamania.png)
 
 https://osakamania.jp/
 ----

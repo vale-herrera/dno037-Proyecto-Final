@@ -16,8 +16,9 @@ https://palomathepeach.com/
 
 https://osakamania.jp/
 ----
-![Abhishek Saha, Graphic, UI/UX, Web Designer and also a Front-End Developer.](/images/pixabuddy.png)
+![Abhishek Saha, Graphic, UI/UX, Web Designer and also a Front-End Developer.](/images/pixabuddy.png) 
 
 https://www.pixabuddy.com/
+---- 
 
 ## Referentes 

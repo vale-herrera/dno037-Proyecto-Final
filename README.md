@@ -6,7 +6,6 @@ Exponer mi trabajo como estudiante de diseño de una manera atractiva y efectiva
 
 ## ¿Para quiénes?
 
------
 
 <img align="left" width="180" height="180" src="https://raw.githubusercontent.com/vale-herrera/dno037-Proyecto-Final/main/images/proto-persona-1.png">
 
@@ -42,7 +41,6 @@ Exponer mi trabajo como estudiante de diseño de una manera atractiva y efectiva
 
 **¿Qué siente?** Siente que para atraer a una nueva demográfica para su empresa, tiene que hacer el sitio atractivo para ella.
 
------
 
 ## Antecedentes
 

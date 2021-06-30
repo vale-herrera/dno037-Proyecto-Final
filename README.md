@@ -38,7 +38,7 @@ Exponer mi trabajo como estudiante de diseño de una manera atractiva y efectiva
 
 **¿Qué piensa?** No sabe nada de diseño así que está dispuesto a contratar a alguien para hacer el trabajo.
 
-**¿Qué hace?** Es un ingeniero comercial y emprendedor que busca renovar la imágen de su empresa.
+**¿Qué hace?** Es un emprendedor que busca renovar la imágen de su empresa.
 
 **¿Qué siente?** Siente que para atraer a una nueva demográfica para su empresa, tiene que hacer el sitio atractivo para ella.
 

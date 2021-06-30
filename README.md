@@ -8,7 +8,7 @@ Exponer mi trabajo como estudiante de diseño de una manera atractiva y efectiva
 
 -----
 
-<img align="left" width="200" height="200" src="https://raw.githubusercontent.com/vale-herrera/dno037-Proyecto-Final/main/images/proto-persona-1.png">
+<img align="left" width="180" height="180" src="https://raw.githubusercontent.com/vale-herrera/dno037-Proyecto-Final/main/images/proto-persona-1.png">
 
 ### Gabriela, 34 años
 
@@ -20,7 +20,7 @@ Exponer mi trabajo como estudiante de diseño de una manera atractiva y efectiva
 
 ------
 
-<img align="left" width="200" height="200" src="https://raw.githubusercontent.com/vale-herrera/dno037-Proyecto-Final/main/images/proto-persona-2.png">
+<img align="left" width="180" height="180" src="https://raw.githubusercontent.com/vale-herrera/dno037-Proyecto-Final/main/images/proto-persona-2.png">
 
 ### Ángela, 19 años
 
@@ -32,7 +32,7 @@ Exponer mi trabajo como estudiante de diseño de una manera atractiva y efectiva
 
 -----
 
-<img align="left" width="200" height="200" src="https://raw.githubusercontent.com/vale-herrera/dno037-Proyecto-Final/main/images/proto-persona-3.png">
+<img align="left" width="180" height="180" src="https://raw.githubusercontent.com/vale-herrera/dno037-Proyecto-Final/main/images/proto-persona-3.png">
 
 ### Diego, 49 años
 

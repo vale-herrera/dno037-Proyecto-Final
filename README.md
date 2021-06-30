@@ -5,8 +5,10 @@ Portafolio de diseño.
 Exponer mi trabajo como estudiante de diseño de una manera atractiva y efectiva, de manera que me ayuda al momento de buscar prácticas y oportunidades laborales en el futuro.
 
 ## ¿Para quiénes?
-<img align="left" width="100" height="100" src="https://raw.githubusercontent.com/vale-herrera/dno037-Proyecto-Final/main/images/proto-persona-1.png">
+<img align="left" width="300" height="300" src="https://raw.githubusercontent.com/vale-herrera/dno037-Proyecto-Final/main/images/proto-persona-1.png">
+----
 ### Gabriela, 34 años
+
 **¿Qué piensa?** Su empresa necesita de diseñadores para mantener una identidad coherente.
 
 **¿Qué hace?** Su compañía ofrece prácticas para estudiantes de diseño. 

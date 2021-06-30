@@ -15,23 +15,28 @@ Exponer mi trabajo como estudiante de diseño de una manera atractiva y efectiva
 
 **¿Qué siente?** Agradece cuando los postulantes se presentan con un portafolio fácil de explorar.
 
-----
+
 <img align="left" width="300" height="300" src="https://raw.githubusercontent.com/vale-herrera/dno037-Proyecto-Final/main/images/proto-persona-2.png">
 
 ### Ángela, 19 años
+
 **¿Qué piensa?** Busca inspiración para crear su propio portafolio de diseño.
 
 **¿Qué hace?** Es estudiante de diseño UC. 
 
 **¿Qué siente?** Siente que tener un portafolio atractivo es esencial tanto para un diseñador como para un estudiante que busca prácticas.
 
+
 <img align="left" width="300" height="300" src="https://raw.githubusercontent.com/vale-herrera/dno037-Proyecto-Final/main/images/proto-persona-3.png">
+
 ### Diego, 49 años
+
 **¿Qué piensa?** No sabe nada de diseño así que está dispuesto a contratar a alguien para hacer el trabajo.
 
 **¿Qué hace?** Es un ingeniero comercial y emprendedor que busca renovar la imágen de su empresa.
 
 **¿Qué siente?** Siente que para atraer a una nueva demográfica para su empresa, tiene que hacer el sitio atractivo para ella.
+
 
 ## Antecedentes
 

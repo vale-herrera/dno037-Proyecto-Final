@@ -6,9 +6,9 @@ Exponer mi trabajo como estudiante de diseño de una manera atractiva y efectiva
 
 ## ¿Para quiénes?
 ![Persona 1, medio](/images/proto-persona-1.png)
-¿Qué piensa?
+¿Qué piensa? Su empresa necesita de diseñadores para mantener una identidad coherente.
 ¿Qué hace? Su compañía ofrece prácticas para estudiantes de diseño. 
-¿Qué siente?
+¿Qué siente? Agradece cuando los postulantes se presentan con un portafolio fácil de explorar.
 
 ![Persona 2, extremo](/images/proto-persona-2.png)
 ¿Qué piensa? Busca inspiración para crear su propio portafolio de diseño.
@@ -16,9 +16,9 @@ Exponer mi trabajo como estudiante de diseño de una manera atractiva y efectiva
 ¿Qué siente? Siente que tener un portafolio atractivo es esencial tanto para un diseñador como para un estudiante que busca prácticas.
 
 ![Persona 3, extremo](/images/proto-persona-3.png)
-¿Qué piensa?
-¿Qué hace?
-¿Qué siente?
+¿Qué piensa? No sabe nada de diseño así que está dispuesto a contratar a alguien para hacer el trabajo.
+¿Qué hace? Es un ingeniero comercial y emprendedor que busca renovar la imágen de su empresa.
+¿Qué siente? Siente que para atraer a una nueva demográfica para su empresa, tiene que hacer el sitio atractivo para ella.
 
 ## Antecedentes
 

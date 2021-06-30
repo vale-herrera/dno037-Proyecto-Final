@@ -8,7 +8,7 @@ Exponer mi trabajo como estudiante de diseño de una manera atractiva y efectiva
 
 -----
 
-<img align="left" width="190" height="190" src="https://raw.githubusercontent.com/vale-herrera/dno037-Proyecto-Final/main/images/proto-persona-1.png">
+<img align="left" width="180" height="180" src="https://raw.githubusercontent.com/vale-herrera/dno037-Proyecto-Final/main/images/proto-persona-1.png">
 
 ### Gabriela, 34 años
 

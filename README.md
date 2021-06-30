@@ -58,7 +58,7 @@ Creado por el Metro de Osaka, este sitio de excursión nos muestra diferentes ca
 
 
 ![Abhishek Saha, Graphic, UI/UX, Web Designer and also a Front-End Developer.](/images/pixabuddy.png) 
-https://www.pixabuddy.com/
+### https://www.pixabuddy.com/
 ---- 
 Sitio de Abhishek Saha, diseñador de web entre otras cosas. Rescato la manera en que está ordenada la página, el *scrolling* nos guía por diferentes categorías, las que se muestran de una manera simple pero efectiva. Me gustaría que los colores del sitio fueran mas cohesivos con los trabajos del diseñador.
 

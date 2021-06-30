@@ -7,6 +7,7 @@ Exponer mi trabajo como estudiante de diseño de una manera atractiva y efectiva
 ## ¿Para quiénes?
 <img align="left" width="300" height="300" src="https://raw.githubusercontent.com/vale-herrera/dno037-Proyecto-Final/main/images/proto-persona-1.png">
 ----
+
 ### Gabriela, 34 años
 
 **¿Qué piensa?** Su empresa necesita de diseñadores para mantener una identidad coherente.
@@ -15,7 +16,9 @@ Exponer mi trabajo como estudiante de diseño de una manera atractiva y efectiva
 
 **¿Qué siente?** Agradece cuando los postulantes se presentan con un portafolio fácil de explorar.
 
-![Persona 2, extremo](/images/proto-persona-2.png)
+----
+<img align="left" width="300" height="300" src="https://raw.githubusercontent.com/vale-herrera/dno037-Proyecto-Final/main/images/proto-persona-2.png">
+
 ### Ángela, 19 años
 **¿Qué piensa?** Busca inspiración para crear su propio portafolio de diseño.
 
@@ -23,7 +26,7 @@ Exponer mi trabajo como estudiante de diseño de una manera atractiva y efectiva
 
 **¿Qué siente?** Siente que tener un portafolio atractivo es esencial tanto para un diseñador como para un estudiante que busca prácticas.
 
-![Persona 3, extremo](/images/proto-persona-3.png)
+<img align="left" width="300" height="300" src="https://raw.githubusercontent.com/vale-herrera/dno037-Proyecto-Final/main/images/proto-persona-3.png">
 ### Diego, 49 años
 **¿Qué piensa?** No sabe nada de diseño así que está dispuesto a contratar a alguien para hacer el trabajo.
 

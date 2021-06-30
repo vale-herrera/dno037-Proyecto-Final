@@ -12,7 +12,7 @@ Exponer mi trabajo como estudiante de diseño de una manera atractiva y efectiva
 
 ### Gabriela, 34 años
 
-**¿Qué piensa?** Su empresa necesita de diseñadores para mantener una identidad coherente.
+**¿Qué piensa?** Su empresa necesita de diseñadores para mantener una identidad coherente que sea atractiva para el cliente.
 
 **¿Qué hace?** Su compañía ofrece prácticas para estudiantes de diseño. 
 

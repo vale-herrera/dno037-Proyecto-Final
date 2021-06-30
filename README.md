@@ -18,6 +18,7 @@ Exponer mi trabajo como estudiante de diseño de una manera atractiva y efectiva
 
 
 
+
 <img align="left" width="200" height="200" src="https://raw.githubusercontent.com/vale-herrera/dno037-Proyecto-Final/main/images/proto-persona-2.png">
 
 ### Ángela, 19 años
@@ -30,6 +31,7 @@ Exponer mi trabajo como estudiante de diseño de una manera atractiva y efectiva
 
 
 
+
 <img align="left" width="200" height="200" src="https://raw.githubusercontent.com/vale-herrera/dno037-Proyecto-Final/main/images/proto-persona-3.png">
 
 ### Diego, 49 años
@@ -39,6 +41,7 @@ Exponer mi trabajo como estudiante de diseño de una manera atractiva y efectiva
 **¿Qué hace?** Es un ingeniero comercial y emprendedor que busca renovar la imágen de su empresa.
 
 **¿Qué siente?** Siente que para atraer a una nueva demográfica para su empresa, tiene que hacer el sitio atractivo para ella.
+
 
 
 ## Antecedentes

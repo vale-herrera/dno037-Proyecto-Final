@@ -16,8 +16,7 @@ Exponer mi trabajo como estudiante de diseño de una manera atractiva y efectiva
 
 **¿Qué siente?** Agradece cuando los postulantes se presentan con un portafolio fácil de explorar.
 
-
-
+------
 
 <img align="right" width="200" height="200" src="https://raw.githubusercontent.com/vale-herrera/dno037-Proyecto-Final/main/images/proto-persona-2.png">
 

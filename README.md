@@ -1,6 +1,6 @@
 # dno037-Proyecto Final
 
-## www.valentinaherrera.cl
+## www.valentinaherrera.cl o www.valentinah.com
 
 Portafolio de diseño. 
 

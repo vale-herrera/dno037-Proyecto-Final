@@ -15,7 +15,8 @@ Exponer mi trabajo como estudiante de diseño de una manera atractiva y efectiva
 **¿Qué hace?** Su compañía ofrece prácticas para estudiantes de diseño. 
 
 **¿Qué siente?** Agradece cuando los postulantes se presentan con un portafolio fácil de explorar.
----
+
+
 
 <img align="left" width="300" height="300" src="https://raw.githubusercontent.com/vale-herrera/dno037-Proyecto-Final/main/images/proto-persona-2.png">
 
@@ -26,6 +27,7 @@ Exponer mi trabajo como estudiante de diseño de una manera atractiva y efectiva
 **¿Qué hace?** Es estudiante de diseño UC. 
 
 **¿Qué siente?** Siente que tener un portafolio atractivo es esencial tanto para un diseñador como para un estudiante que busca prácticas.
+
 
 
 <img align="left" width="300" height="300" src="https://raw.githubusercontent.com/vale-herrera/dno037-Proyecto-Final/main/images/proto-persona-3.png">

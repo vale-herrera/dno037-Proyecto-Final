@@ -5,7 +5,7 @@ Portafolio de diseño.
 Exponer mi trabajo como estudiante de diseño de una manera atractiva y efectiva, de manera que me ayuda al momento de buscar prácticas y oportunidades laborales en el futuro.
 
 ## ¿Para quiénes?
-![Persona 1, medio](/images/proto-persona-1.png)
+<img align="left" width="100" height="100" src="http://www.fillmurray.com/100/100"> ![Persona 1, medio](/images/proto-persona-1.png)
 ¿Qué piensa?
 ¿Qué hace? Su compañía ofrece prácticas para estudiantes de diseño. 
 ¿Qué siente?

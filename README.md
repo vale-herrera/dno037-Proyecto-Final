@@ -5,6 +5,20 @@ Portafolio de diseño.
 Exponer mi trabajo como estudiante de diseño de una manera atractiva y efectiva, de manera que me ayuda al momento de buscar prácticas y oportunidades laborales en el futuro.
 
 ## ¿Para quiénes?
+![Persona 1, medio](/images/proto-persona-1.png)
+¿Qué piensa?
+¿Qué hace? Su compañía ofrece prácticas para estudiantes de diseño. 
+¿Qué siente?
+
+![Persona 2, extremo](/images/proto-persona-2.png)
+¿Qué piensa? Busca inspiración para crear su propio portafolio de diseño.
+¿Qué hace? Estudiante de diseño UC. 
+¿Qué siente? Siente que tener un portafolio atractivo es esencial tanto para un diseñador como para un estudiante que busca prácticas.
+
+![Persona 3, extremo](/images/proto-persona-3.png)
+¿Qué piensa?
+¿Qué hace?
+¿Qué siente?
 
 ## Antecedentes
 
